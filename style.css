@@ -1,0 +1,19 @@
+form{
+    text-align: center;
+    color:whitesmoke;
+    background-color: #2ddb9b;
+      transition: 0.2s;
+        padding: 0.5px;
+    margin: 50px;
+     padding-bottom:50px;
+    padding-top:50px;
+  }
+  header{
+    text-align: center;
+  }
+  form:hover{
+    background-color: #5e4fa2
+  
+  
+  
+  }
